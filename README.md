@@ -13,9 +13,10 @@ Web app onde temos dados retirados do banco de dados MySQL, utilizando Html e Cs
 
 # Telas:
 
-<img width="960" alt="image" src="https://github.com/felipesphair/app_dash_board/assets/107360437/00f87984-a466-4d81-ac07-f516431e8a5f">
+<img width="960" alt="image" src="https://github.com/felipesphair/app_dash_board/assets/107360437/8e9c2192-b90a-455d-adb5-7c531a10c93d">
 
-<img width="959" alt="image" src="https://github.com/felipesphair/app_dash_board/assets/107360437/a6d46a69-a46a-448a-8f12-413ee3f7d45c">
+<img width="958" alt="image" src="https://github.com/felipesphair/app_dash_board/assets/107360437/eab3120d-0594-4bc8-8b75-19db053660c7">
 
-<img width="960" alt="image" src="https://github.com/felipesphair/app_dash_board/assets/107360437/b21d2ab0-18d3-4561-983b-1e9cdad93716">
+<img width="960" alt="image" src="https://github.com/felipesphair/app_dash_board/assets/107360437/9262e260-8e91-4376-803b-82171f9419a0">
+
 
