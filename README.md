@@ -9,7 +9,7 @@ Web app onde temos dados retirados do banco de dados MySQL, utilizando Html e Cs
 
 # Aprimoramentos futuros:
 
-- Gerar graficos em python com streamlit para jogar na parte do dashboard
+- Gerar graficos em python para jogar na parte do dashboard
 
 # Telas:
 
