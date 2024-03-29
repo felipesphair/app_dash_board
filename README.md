@@ -7,9 +7,6 @@ Web app onde temos dados retirados do banco de dados MySQL, utilizando Html e Cs
 - Basta baixar a pasta, colocar em htdocs nas pasta do xampp, iniciar o xampp com apache e mysql, por fim rodar no phpmyadmin o sql disponibilizado
 - Por fim coloque no navegador: **http://localhost/app_dashboard/index.html**
 
-# Aprimoramentos futuros:
-
-- Gerar graficos em python para jogar na parte do dashboard
 
 # Telas:
 
